@@ -1,6 +1,6 @@
-<!-- Title -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/WinNguyen1905">Nguyễn Thắng Lợi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-<h3 align="center">Full-Stack Engineer • Cloud & Database Aficionado</h3>
+# Hi there, I'm [Nguyễn Thắng Lợi](https://github.com/WinNguyen1905) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+<p align="center"><strong>Full-Stack Engineer • Cloud & Database Aficionado</strong></p>
 
 <!-- Wakatime badge -->
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-### 📫 How to reach me
+## 📫 How to reach me
 <p align="left">
   <a href="mailto:winnguyen1905.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/></a>
   <a href="https://www.linkedin.com/in/winnguyen4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
@@ -25,13 +25,14 @@
 
 ---
 
-<div align="center">
+<details open>
+<summary>
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
     &nbsp;About Me&nbsp;
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   </h2>
-</div>
+</summary>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%E2%9A%A1;Cloud+%26+DevOps+Aficionado+%E2%98%81%EF%B8%8F;Building+High-Performance+Systems+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
@@ -62,22 +63,18 @@
   </tr>
 </table>
 
-<br>
+</details>
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line">
-</div>
+---
 
-<br>
-
-<div align="center">
-  <h3>
+<details>
+<summary>
+  <h2>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     &nbsp;My Programming Languages&nbsp;
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </h3>
-</div>
+  </h2>
+</summary>
 
 <div align="center">
   <table>
@@ -128,22 +125,18 @@
   </table>
 </div>
 
-<br>
+</details>
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line">
-</div>
+---
 
-<br>
-
-<div align="center">
-  <h3>
+<details>
+<summary>
+  <h2>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
     &nbsp;What I Do&nbsp;
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  </h3>
-</div>
+  </h2>
+</summary>
 
 <table>
   <tr>
@@ -206,22 +199,18 @@
   </tr>
 </table>
 
-<br>
+</details>
 
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line">
-</div>
+---
 
-<br>
-
-<div align="center">
-  <h3>
+<details>
+<summary>
+  <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
     &nbsp;My Activity&nbsp;
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  </h3>
-</div>
+  </h2>
+</summary>
 
 <div align="center">
   <table>
@@ -233,18 +222,28 @@
   </table>
 </div>
 
-<br>
+</details>
 
 ---
 
-### 🏆 GitHub Trophies
+<details>
+<summary>
+  <h2>🏆 GitHub Trophies</h2>
+</summary>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=winnguyen1905&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+</details>
+
 ---
 
-### 📈 GitHub Stats
+<details>
+<summary>
+  <h2>📈 GitHub Stats</h2>
+</summary>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnguyen1905&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top languages"/>
   <br/>
@@ -253,10 +252,28 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnguyen1905&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
+</details>
+
 ---
 
-### 🐍 Contribution Snake
+<details>
+<summary>
+  <h2>🐍 Contribution Snake</h2>
+</summary>
+
 <div align="center">
     
   ![snake gif](https://github.com/winnguyen1905/winnguyen1905/blob/output/github-snake-dark.svg)
 </div>
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated line">
+</div>
+
+<p align="center">
+  <strong>✨ Thanks for visiting my profile! ✨</strong>
+</p>
