@@ -1,0 +1,54 @@
+{
+  "achievements": [
+    {
+      "title": "Full-Stack Development",
+      "description": "Built high-throughput, cloud-native platforms handling thousands of users",
+      "icon": "🚀",
+      "year": "2024"
+    },
+    {
+      "title": "Microservices Architecture",
+      "description": "Designed complex microservice ecosystems with event-driven pipelines",
+      "icon": "🏗️",
+      "year": "2024"
+    },
+    {
+      "title": "Cloud Native Solutions",
+      "description": "Implemented serverless workloads and cloud-native architectures",
+      "icon": "☁️",
+      "year": "2024"
+    },
+    {
+      "title": "Open Source Contributor",
+      "description": "Active contributor to open source projects and community discussions",
+      "icon": "❤️",
+      "year": "2024"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Solutions Architect",
+      "status": "In Progress",
+      "year": "2024"
+    },
+    {
+      "name": "Kubernetes Administrator",
+      "status": "Planned",
+      "year": "2024"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Open Source Library",
+      "status": "In Development",
+      "description": "Building a high-performance library for cloud-native applications",
+      "tech": ["Java", "Spring Boot", "AWS"]
+    },
+    {
+      "name": "SaaS Side Project",
+      "status": "Planning",
+      "description": "Full-stack SaaS application with microservices architecture",
+      "tech": ["TypeScript", "React", "Node.js", "AWS"]
+    }
+  ]
+}

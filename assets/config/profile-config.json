@@ -1,0 +1,24 @@
+{
+  "profile": {
+    "name": "Nguyễn Thắng Lợi",
+    "username": "winnguyen1905",
+    "title": "Full-Stack Engineer • Cloud & Database Aficionado",
+    "location": "Vietnam",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "experience_years": "1+",
+    "architecture_focus": "Microservices"
+  },
+  "contact": {
+    "email": "winnguyen1905.work@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/winnguyen4/",
+    "leetcode": "https://leetcode.com/u/loinguyen1905/",
+    "wakatime": "https://wakatime.com/@b92ce9d0-08a5-4710-a92b-ce6f440296f6"
+  },
+  "skills": {
+    "languages": ["Java", "Spring", "Python", "Go", "C++", "TypeScript", "JavaScript"],
+    "frameworks": ["React", "Spring Boot", "NestJS", "Node.js"],
+    "cloud": ["AWS", "GCP", "Kubernetes", "Docker"],
+    "tools": ["GitHub", "GitLab", "LeetCode"]
+  },
+  "goals_2024": ["Release an open-source library", "Ship a SaaS side-project", "Improve LeetCode streak"]
+}
