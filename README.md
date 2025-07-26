@@ -34,7 +34,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%E2%9A%A1;Cloud+%26+DevOps+Aficionado+%E2%98%81%EF%B8%8F;Building+High-Performance+Systems+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%E2%9A%A1;Cloud+%26+Database+Aficionado+%E2%98%81%EF%B8%8F;Building+High-Performance+Systems+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br>
