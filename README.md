@@ -1,12 +1,10 @@
 <!-- Title -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/WinNguyen1905">Nguyễn Thắng Lợi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/WinNguyen1905-aladin">Nguyễn Thắng Lợi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">Full-Stack Engineer • Cloud & Database Aficionado</h3>
 
 <!-- Wakatime badge -->
 <p align="center">
-  <a href="https://wakatime.com/@b92ce9d0-08a5-4710-a92b-ce6f440296f6">
-    <img src="https://wakatime.com/badge/user/b92ce9d0-08a5-4710-a92b-ce6f440296f6.svg" alt="Wakatime badge" />
-  </a>
+  <a href="https://wakatime.com/@b92ce9d0-08a5-4710-a92b-ce6f440296f6"><img src="https://wakatime.com/badge/user/b92ce9d0-08a5-4710-a92b-ce6f440296f6.svg" alt="Total time coded since Jul 23 2024" /></a>
 </p>
 
 <!-- Profile Views -->
@@ -237,7 +235,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=winnguyen1905&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=winnguyen1905-aladin&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
       </td>
     </tr>
   </table>
@@ -251,18 +249,18 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=winnguyen1905&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=winnguyen1905-aladin&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnguyen1905&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnguyen1905-aladin&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=winnguyen1905&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=winnguyen1905-aladin&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnguyen1905&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnguyen1905-aladin&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
@@ -270,5 +268,5 @@
 ### 🐍 Contribution Snake
 <div align="center">
     
-  ![snake gif](https://github.com/winnguyen1905/winnguyen1905/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/winnguyen1905-aladin/winnguyen1905-aladin/blob/output/github-snake-dark.svg)
 </div>
