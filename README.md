@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/WinNguyen1905-aladin">Nguyễn Thắng Lợi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/loinguyen1905">Nguyễn Thắng Lợi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h3 align="center">Full-Stack Engineer • Cloud & Database Aficionado</h3>
 
 <!-- Wakatime badge -->
@@ -9,14 +9,14 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winnguyen1905&style=flat-square&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=loinguyen1905&style=flat-square&color=brightgreen" alt="Profile views"/>
 </p>
 
 ---
 
 ### 📫 How to reach me
 <p align="left">
-  <a href="mailto:winnguyen1905.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/></a>
+  <a href="mailto:loinguyen1905.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/></a>
   <a href="https://www.linkedin.com/in/winnguyen4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/></a>
   <a href="https://leetcode.com/u/loinguyen1905/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode badge"/></a>
 </p>
@@ -235,7 +235,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=winnguyen1905-aladin&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=loinguyen1905&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
       </td>
     </tr>
   </table>
@@ -249,18 +249,18 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=winnguyen1905-aladin&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=loinguyen1905&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnguyen1905-aladin&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loinguyen1905&layout=compact&theme=tokyonight&hide=html,css,scss" alt="Top languages"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=winnguyen1905-aladin&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=loinguyen1905&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winnguyen1905-aladin&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loinguyen1905&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
@@ -268,8 +268,8 @@
 ### 🐍 Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loinguyen1905/loinguyen1905/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loinguyen1905/loinguyen1905/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/loinguyen1905/loinguyen1905/output/github-snake.svg" />
   </picture>
 </div>
