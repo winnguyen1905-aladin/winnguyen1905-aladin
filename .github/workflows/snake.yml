@@ -14,7 +14,7 @@ permissions:
 jobs:
   generate:
     name: Generate Snake Animation
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, Linux, X64]   # chạy trên runner "tiger" thay vì máy GitHub-hosted
     timeout-minutes: 10
 
     steps:
