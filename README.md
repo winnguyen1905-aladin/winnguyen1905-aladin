@@ -249,7 +249,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=winnguyen1905-aladin&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=winnguyen1905-aladin&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -267,6 +267,9 @@
 
 ### 🐍 Contribution Snake
 <div align="center">
-    
-  ![snake gif](https://github.com/winnguyen1905-aladin/winnguyen1905-aladin/blob/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/winnguyen1905-aladin/winnguyen1905-aladin/output/github-snake.svg" />
+  </picture>
 </div>
