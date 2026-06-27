@@ -9,7 +9,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loinguyen1905&style=flat-square&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=loinguyen1905&base=4264&style=flat-square&color=brightgreen&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
